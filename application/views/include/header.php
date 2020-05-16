@@ -94,6 +94,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <li class="nav-item">
       <a class="btn btn-outline-secondary" href="<?php echo base_url();?>front/start_project">Start a Project</a>
       </li>
+      <li class="nav-item ml-1">
+      <a class="btn btn-outline-secondary" href="<?php echo base_url();?>login">Login</a>
+      </li>
     </ul>  
   </div>
 </nav>
